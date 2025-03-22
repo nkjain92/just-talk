@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- Always write the path to the file at the top of the file
+- With the path, also write comments on what the file does and why does it exist
+- Explain in comments how the code you are writing works
+- Before writing new functions, always check if existing function for the same thing exists
+- Follow the folder structure strictly

@@ -1,0 +1,7 @@
+PyQt6
+sounddevice
+requests
+PyObjC
+pynput
+pyinstaller
+python-dotenv
