@@ -1,2 +1,6 @@
+# .gitignore
+# This file specifies intentionally untracked files to ignore.
+# It is used to avoid committing sensitive information like environment variables.
+
 # env files (can opt-in for committing if needed)
 .env
